@@ -1,0 +1,10 @@
+$S _ { s t a t } = 2 \pi \sqrt { N _ { 5 } ^ { ( 1 ) } N _ { 5 } ^ { ( 2 ) } N _ { 5 } ^ { ( 3 ) } } \left( \sqrt { n } + \sqrt { \bar { n } } \right)$
+$y ^ { 2 } = \rho \; \cosh \beta \; \sin \theta \; \sin \phi \qquad \qquad y ^ { 3 } = \rho \; \cos \theta$
+$2 \kappa _ { 1 1 } { } ^ { 2 } T _ { 3 } { \tilde { T } } _ { 6 } = 2 \pi n$
+$I_{1} = \int_{0}^{a} x^{2} e^{-\alpha x}\,dx $
+$S_{2} = \sum_{n=0}^{N} \frac{(\beta n + b)^{3}}{n!}$
+$\sum _ { n = 1 } ^ { \infty } \frac { \cos n x } { n ^ { 2 } + a ^ { 2 } } = - \frac { 1 } { 2 a ^ { 2 } } + \frac { \pi } { 2 a } \frac { \cosh a ( \pi - x ) } { \sinh \pi a }$
+$d g \, \, = \, \, [ \, D \, , \, g \, ] , \, \, \, \, \, \, \forall g \in { \cal A }$
+$[ x _ { i } , J _ { j k } ] + [ x _ { j } , J _ { k i } ] + [ x _ { k } , J _ { i j } ]$
+$A _ { h } = 2 \pi \sum _ { i } ^ { g } ( u _ { i } \alpha _ { i } - v _ { i } \beta _ { i } ) .$
+$\nu _ { z } = \left( \begin{array} { l } { { 0 } } \\ { { k } } \end{array} \right)$
